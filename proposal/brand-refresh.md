@@ -1,16 +1,8 @@
-# Feed Direction
+# Brand Refresh
 
 ## Goal
 
 Build a premium café page that people want to visit, save, and share.
-
----
-
-## Brand
-
-Modern • Minimal • Lifestyle • Cozy
-
----
 
 ## Color Palette
 
@@ -20,8 +12,6 @@ Modern • Minimal • Lifestyle • Cozy
 - Beige
 - Cream
 
----
-
 ## Typography
 
 One display font.
@@ -29,15 +19,11 @@ One clean sans-serif.
 
 Keep it consistent across every post.
 
----
-
 ## Photography
 
 - Warm lighting
 - Shots of food & coffee
 - Clean compositions
-
----
 
 ## Highlights
 
@@ -53,3 +39,5 @@ Examples:
 - Reviews 
 - Events 
 - Menu
+- Location
+- Customer stories reposts
