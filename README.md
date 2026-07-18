@@ -9,7 +9,7 @@ This repository contains a sample social media proposal I created for Café Pica
 
 ## What's Included
 
-- Instagram Feed Concepts
+- Instagram Highlight Covers Custom Made by Me
 - Reel Concepts
 - Market Analysis
 - Competitor Analysis
