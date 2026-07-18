@@ -10,7 +10,6 @@ This repository contains a sample social media proposal I created for Café Pica
 ## What's Included
 
 - Instagram Feed Concepts
-- Story Concepts
 - Reel Concepts
 - Content Strategy
 - Weekly Content Plan
