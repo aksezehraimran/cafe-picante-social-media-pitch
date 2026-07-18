@@ -11,8 +11,8 @@ This repository contains a sample social media proposal I created for Café Pica
 
 - Instagram Feed Concepts
 - Reel Concepts
-- Content Strategy
-- Weekly Content Plan
+- Market Analysis
+- Competitor Analysis
 
 My goal for this is to showcase a modern, aesthetic social media direction inspired by contemporary café brands while highlighting Café Picante's food, coffee, and hotpot experience to help the brand grow.
 
